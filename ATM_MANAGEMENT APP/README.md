@@ -1,5 +1,10 @@
 # Atm-management
 
+# libraries to install
+    pip install pymongo
+    pip install colorama
+
+
 #Important:
 
 Add your connection string.
